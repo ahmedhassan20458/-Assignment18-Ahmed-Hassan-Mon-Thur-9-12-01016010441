@@ -1,0 +1,4 @@
+client/node_modules
+client/chat-frontend-npm
+server/node_modules
+server/config
